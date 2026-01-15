@@ -23,7 +23,7 @@ Productid, Nombre del producto, Categoría, Marca, Cantidad
 Precio unitario, Descuento, Impuesto, Coste de envío, TotalAmount
 💳 Detalles de pago
 Método de Pago
-He creado una columna denominada “Profits”, en la cual se calcula el beneficio total de cada pedido restando los impuestos y gastos de envío al valor registrado en TotalAmount. Este indicador permite obtener una estimación más precisa de la rentabilidad real por transacción.
+He creado una columna denominada “Profits”, en la cual se calcula el beneficio estimado total de cada pedido restando los impuestos y gastos de envío al valor registrado en TotalAmount. Este indicador permite obtener una estimación más precisa de la rentabilidad real por transacción.
 
 🧮 Resultados y Conclusiones
 Durante los dos últimos años se observa un patrón consistente en el comportamiento de devoluciones y cancelaciones. Las categorías que presentan mayor incidencia son Menaje y Juegos, concentrando un volumen significativamente superior al del resto del catálogo.
